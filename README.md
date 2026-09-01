@@ -7,8 +7,20 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 7 - 09/01/26
+- Set up a DB server for the 100 Days of Devops (100DevOps).
+- Finished the security.tf module for my tech challenge.
+- Applied for 1 job using custom bullet points
+- Spoke with a recruit about a fully remote cloud network engineer role. 
+
+Day 6 - 08/31/26
+- Completed another day of 100 Days of DevOps which was setting up PostgreSQL. Very easy lab. We'll do something deeper tomorrow. 
+
+Day 5 - 08/30/26
+- Completed another day of 100 Days of DevOps which was turning NGINX into a load balancer. I actually did pretty well with this as a beginner but I didn't know about telling NGINX to point traffic to my backend pool. 
+
 Day 4 - 08/29/26
-- 
+- Completed another day of 100 Days of DevOps which was setting up SSL for NGINX. Gave me some issues but I figured it out. 
 
 Day 3 - 08/28/26
 - Completed another day of the 100 Days of DevOps challenge. This revolved around Linux process troubleshooting
