@@ -7,6 +7,12 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 1 (Again) - 09/21/2026
+- I was going through some things but I'm back now. I've been doing the 100 Days of DevOps lately. I'm on Day 24 I believe. Days 20 - 34 are all about Git so hopefully I learn something valuable.
+- Made some more Anki cards. I'll go over them while I'm traveling. 
+
+
+
 Day 7 - 09/01/26
 - Set up a DB server for the 100 Days of Devops (100DevOps).
 - Finished the security.tf module for my tech challenge.
