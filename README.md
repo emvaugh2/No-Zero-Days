@@ -7,6 +7,19 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 4 - 09/24/2026
+- Completed another Git lab.
+- Made more progress on the Terraform section of the challenge. 
+
+Day 3 - 09/23/2026
+- Had a breakthrough day. I completed a lot of the Terraform section for the Tech Challenge 1. That was my biggest roadblock. Completed the security.tf, ecr.tf and most of the ecs.tf files for deployent.
+- Completed another Git lab.
+- Made more Anki cards and studied the Git and Kubernetes cards. 
+
+Day 2 - 09/22/2026
+- I went through 3 or 4 Git labs today. They were simple but conceptually speaking, I learned a good amount.
+- Went over Docker Anki deck. 
+
 Day 1 (Again) - 09/21/2026
 - I was going through some things but I'm back now. I've been doing the 100 Days of DevOps lately. I'm on Day 24 I believe. Days 20 - 34 are all about Git so hopefully I learn something valuable.
 - Made some more Anki cards. I'll go over them while I'm traveling. 
