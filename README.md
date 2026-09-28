@@ -7,6 +7,24 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 8 - 09/28/2026
+- Did 3 Git labs today based on git stash, rebase, and hard reset. Made some Anki cards for these as well.
+- Reviewed my Docker, K8s, and Git Anki cards.
+- Prescheduled posted on LinkedIn and added a few more posts for the next few days. 
+
+Day 7 - 09/27/2026
+- Honestly I didn't get anything done today. Sorry.
+- I did already have a prescheduled post on LinkedIn though. 
+
+Day 6 - 09/26/2026
+- Nothing much since people were in town visiting.
+- Reviewed my Anki cards
+- Posted on LinkedIn about 100 Days of DevOps. Improves SEO. 
+
+Day 5 - 09/25/2026
+- Another day of 100 Days of DevOps. Also reviewed Anki cards
+- Reviewed the steps of Tech Challenge 1 just so I can remember what the overall point of the lab was. 
+
 Day 4 - 09/24/2026
 - Completed another Git lab.
 - Made more progress on the Terraform section of the challenge. 
