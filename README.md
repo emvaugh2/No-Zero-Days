@@ -7,6 +7,17 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+
+Day 11 - 10/01/2026
+- Reviewed Anki cards. The Git cards sound the same.
+- Completed 3 Docker labs. I'm kind of doing this because I'll probably slow down once the K8s labs get here.
+- Finished Tech Challenge 1. 
+
+Day 10 - 09/30/2026
+- I did two Git labs and 1 Docker lab. Now we're in the trenches with Docker which I'm excited about.
+- I made A LOT of progress with Tech Challenge 1. I actually almost completed the main part of the challenge.
+- Reviewed Anki cards
+
 Day 9 - 09/29/2026
 - Completed another Git lab. One last one to go.
 
