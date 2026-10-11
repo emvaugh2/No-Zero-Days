@@ -8,6 +8,8 @@ I don't have a true guideline or objectives for each day because I'm currently i
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
 
+So many updates! Tomorrow tho. 
+
 Day 14 - 10/04/2026
 - 
 
