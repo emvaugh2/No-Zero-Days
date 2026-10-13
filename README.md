@@ -10,6 +10,8 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 So many updates! Tomorrow tho. 
 
+I promise I'll have some updates. 
+
 Day 14 - 10/04/2026
 - 
 
