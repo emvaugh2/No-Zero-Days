@@ -8,19 +8,20 @@ I don't have a true guideline or objectives for each day because I'm currently i
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
 
-So many updates! Tomorrow tho. 
 
-I promise I'll have some updates. 
 
-Day 14 - 10/04/2026
-- 
 
-Day 13 - 10/03/2026
-- 
+Day 24 - 10/14/2026
+- Okay we're skipping some days lol. I've been pretty much getting something done every day besides on the weekends. I know the past two weekends, I've only gotten work done on one of those days. During the week, however, I've been getting multiple 100 Days of DevOps challenges done, studying Anki cards, and working on my cloud projects.
+- Currently on Day 57 of the 100 Days of DevOps challenge. I'll probably be done with that in the next 20 days.
+- I'm all the way caught up with my Anki cards but I do need to add more notes to them. Forthcoming.
+- I completed both Tech Challenge 1 and 2! Thank God. Now I just need to document them. Once they're submitted, we'll move onto the next two projects and start interview prep.
+- I submitted my application to a remote Azure Network Engineer role. Hopefully I get a call back.
+- Someone reached out about a Senior Platform Engineer role paying $130k - $170k with a 15% - 20% bonus so on the high end, that would be almost $205k. I love it. 
 
 
 Day 12 - 10/02/2026
-- 
+- Anki cards a
 
 Day 11 - 10/01/2026
 - Reviewed Anki cards. The Git cards sound the same.
