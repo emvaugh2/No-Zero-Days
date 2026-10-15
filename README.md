@@ -9,7 +9,10 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 
 
-
+Day 25 - 10/15/2026
+- Proofread my documentation for TC1.
+- Created all the documentation for TC2. Will proofread it tomorrow with fresh eyes.
+- Completed 4 K8s labs in 100 Days of DevOps
 
 Day 24 - 10/14/2026
 - Okay we're skipping some days lol. I've been pretty much getting something done every day besides on the weekends. I know the past two weekends, I've only gotten work done on one of those days. During the week, however, I've been getting multiple 100 Days of DevOps challenges done, studying Anki cards, and working on my cloud projects.
