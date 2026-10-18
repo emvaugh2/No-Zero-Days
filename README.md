@@ -8,6 +8,12 @@ I don't have a true guideline or objectives for each day because I'm currently i
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
 
+Day 27 - 10/17/2026
+- Completed two more K8s labs. I believe I have 6 left. 
+
+
+Day 26 - 10/16/2026
+- Proofread TC2 and completed TC3. I believe I did some K8s labs in 100 Days of DevOps but I don't remember. 
 
 Day 25 - 10/15/2026
 - Proofread my documentation for TC1.
