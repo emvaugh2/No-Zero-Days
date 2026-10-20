@@ -7,6 +7,8 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 29 - 10/19/2026
+- Completed K8s!
 
 Day 28 - 10/18/2026
 - Completed three more K8s labs. I believe I have 3 left. 
