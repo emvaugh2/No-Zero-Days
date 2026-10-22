@@ -7,12 +7,16 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+
+Day 32 - 10/22/2026
+- Completed 1 Jenkins labs on 100 Days of DevOps
+
 Day 31 - 10/21/2026
-- Completed 2 more Jenkins labs on 100 Days of DevOps
+- Completed 1 Jenkins labs on 100 Days of DevOps
 
 Day 30 - 10/20/2026
 - Completed Project 3
-- Completed on Jenkins lab on 100 Days of DevOps
+- Completed one Jenkins lab on 100 Days of DevOps
 
 Day 29 - 10/19/2026
 - Completed K8s!
