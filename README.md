@@ -8,6 +8,13 @@ I don't have a true guideline or objectives for each day because I'm currently i
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
 
+Day 38 - 10/28/2026
+- I'm not sure if I got anything done this past weekend as well. Saturday was extremely hectic and Sunday flew by.
+- I did complete 6 Jenkins labs on Monday I believe.
+- I completed another 2 Jenkins labs yesterday.
+- I memorized the prompt for Project 1. I've gone through it 3 times my memory so far.
+- I'm sure I'll do at least 1 Jenkins lab today. I have 4 left before we move to Ansible. Currently on Day 78 of the 100 Days of DevOps challenge. 
+
 Day 32 - 10/22/2026
 - Completed 1 Jenkins labs on 100 Days of DevOps
 
