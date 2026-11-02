@@ -7,6 +7,8 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Exhausted today for some reason. 
+
 Day 39 - 10/29/2026
 - Created the draft for P2's 100 rep summary. I'll start on it once I knock out the 100 reps of P1.
 - Completed another Jenkins lab. 
