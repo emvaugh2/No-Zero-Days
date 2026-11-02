@@ -9,6 +9,10 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 43 - 11/02/2026
+- Completed 6 Ansible labs today.
+- Recited 20 reps of P2
+
 Day 39 - 10/29/2026
 - Created the draft for P2's 100 rep summary. I'll start on it once I knock out the 100 reps of P1.
 - Completed another Jenkins lab. 
