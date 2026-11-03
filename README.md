@@ -9,6 +9,10 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 44 - 11/03/2026
+- Completed more Ansible labs today.
+- Recited all 100 reps of P2
+
 Day 43 - 11/02/2026
 - Completed 6 Ansible labs today.
 - Recited 20 reps of P2
