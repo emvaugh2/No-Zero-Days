@@ -9,6 +9,10 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 45 - 11/04/2026
+- Completed all but the final lab for 100 Days of DevOps
+- Completed 50 reps of TC1
+
 Day 44 - 11/03/2026
 - Completed more Ansible labs today.
 - Recited all 100 reps of P2
