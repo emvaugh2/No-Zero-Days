@@ -9,11 +9,15 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 47 - 11/06/2026
+- Completed 100 reps of TC3
+- Started my reps of TC2
+
 
 Day 46 - 11/05/2026
 - Completed Day 100 of the 100 Days of DevOps challenge!
 - Completed all 100 reps of TC1
-- Completed 50 reps of TC2
+- Completed 50 reps of TC3
 
 Day 45 - 11/04/2026
 - Completed all but the final lab for 100 Days of DevOps
