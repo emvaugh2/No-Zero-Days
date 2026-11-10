@@ -9,6 +9,13 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 51 - 11/10/2026
+- I ended up missing a day which isn't really true. But I'm a few days in for the 100 Days of Cloud for AWS. I've been using strictly the CLI for these tasks
+- Starting up the Cloud Resume Challenge so I can have something to present during the interview
+- Compiled all of my 10 Days of DevOps notes into AI so it can make a summary of the things I learned, worked on, and troubleshooted dfor each tool.
+- Compiled a list of career highlghts and answers to behavioral questions with AI so when I reach that point in the interview, I'll be prepared for that as well. 
+
+
 Day 47 - 11/06/2026
 - Completed 100 reps of TC3
 - Started my reps of TC2
