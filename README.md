@@ -9,6 +9,12 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 53 - 11/12/2026
+- Got the main part of the frontend completed for the Cloud Resume Challenge and it looks beautiful.
+- Finally finished all my reps for all of the projects. I need to keep reviewing though. Copilot is down so I wasn't able to go over follow up questions
+- Made a major move that I won't speak on publicy yet but this could be life changing for sure.
+- Went over my Anki cards today. 
+
 Day 51 - 11/10/2026
 - I ended up missing a day which isn't really true. But I'm a few days in for the 100 Days of Cloud for AWS. I've been using strictly the CLI for these tasks
 - Starting up the Cloud Resume Challenge so I can have something to present during the interview
