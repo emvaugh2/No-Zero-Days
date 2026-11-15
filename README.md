@@ -9,6 +9,9 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 55 - 11/15/2026
+- Finished the CRC. 
+
 Day 54 - 11/14/2026
 - Basically completed the CRC. I have to validate my Terraform CI/CD and then....build a diagram? No I also have to fix my Backend CI/CD. It's breaking my function. Not sure what's going on. But the website looks dope. 
 
