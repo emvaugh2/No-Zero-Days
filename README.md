@@ -9,6 +9,9 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 54 - 11/14/2026
+- Basically completed the CRC. I have to validate my Terraform CI/CD and then....build a diagram? No I also have to fix my Backend CI/CD. It's breaking my function. Not sure what's going on. But the website looks dope. 
+
 Day 53 - 11/12/2026
 - Got the main part of the frontend completed for the Cloud Resume Challenge and it looks beautiful.
 - Finally finished all my reps for all of the projects. I need to keep reviewing though. Copilot is down so I wasn't able to go over follow up questions
