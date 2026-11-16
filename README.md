@@ -9,6 +9,9 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 56 - 11/16/2026
+- Did a bunch of follow up questions on all of my projects. So this was nice although I had an extremely hectic weekend. 
+
 Day 55 - 11/15/2026
 - Finished the CRC. 
 
