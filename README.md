@@ -9,6 +9,11 @@ Some days I may barely get anything done and other days I may go extremely hard.
 
 Exhausted today for some reason. 
 
+Day 57 - 11/17/2026
+- Updated my resume and sent it to my friend for an internal referral.
+- Did more interview prep answering more follow up questions and architectural (sp?) questions.
+- Went over my CRC summary and short story script.
+
 Day 56 - 11/16/2026
 - Did a bunch of follow up questions on all of my projects. So this was nice although I had an extremely hectic weekend. 
 
