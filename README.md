@@ -7,7 +7,10 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
-Exhausted today for some reason. 
+
+Day 57 - 11/18/2026
+- Got that first one done. About to do some prep using the AWS SAA course on KK. 
+
 
 Day 57 - 11/17/2026
 - Updated my resume and sent it to my friend for an internal referral.
