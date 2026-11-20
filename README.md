@@ -8,6 +8,10 @@ I don't have a true guideline or objectives for each day because I'm currently i
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
 
+Day 59 - 11/20/2026
+- Didn't hear back from that one spot yet so that's a little annoying. I did finish up the Computer section of the AWS SAA though. Well, I have two labs left to do. Then I'm going to move to DBs and Storage.
+- Learned about Landing Zones. May complete this on the Azure and AWS sides really quickly.  
+
 Day 58 - 11/19/2026
 - I didn't get much done last night after I took a break. But I completed the Networking section of the AWS SAA course (40 lessons total). I'm just going to keep going.  
 
