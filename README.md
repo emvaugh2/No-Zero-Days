@@ -7,6 +7,9 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 60 - 11/21/2026
+- I didn't get anything done today. I was exhausted. Currently watching a video on landing zones. I think Im going to build one of these for Azure very soon.
+- Going to at least finish the Storage section in the AWS SAA course. 
 
 Day 59 - 11/20/2026
 - Didn't hear back from that one spot yet so that's a little annoying. I did finish up the Computer section of the AWS SAA though. Well, I have two labs left to do. Then I'm going to move to DBs and Storage.
