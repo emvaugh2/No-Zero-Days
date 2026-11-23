@@ -7,6 +7,10 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 62 - 11/23/2026
+- Had another interview. It went well on my behalf but I don't think I had the experience they required. They wanted someone who had more security hardening and unit testing for a CI/CD pipeline. They also wanted someone who deployed a large number of microservices and knew networking between them. So that was disappointing BUT it was a learning experience and I did my best.
+- Finished the Security section of the AWS SAA course. 
+
 Day 60 - 11/21/2026
 - I didn't get anything done today. I was exhausted. Currently watching a video on landing zones. I think Im going to build one of these for Azure very soon.
 - Going to at least finish the Storage section in the AWS SAA course. 
