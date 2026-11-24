@@ -7,6 +7,9 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 63 - 11/24/2026
+- Mainly just review today. I'm still not applying to jobs because I need to do the mock interview first but we'll get it done. Actually this is great. I can spend time reviewing my projects to a strong degree so I can be even more prepared for the mock interview this Friday. Then it's all go time after that. It's literally up and stuck after I pass this mock interview. So this is actually great. 
+
 Day 62 - 11/23/2026
 - Had another interview. It went well on my behalf but I don't think I had the experience they required. They wanted someone who had more security hardening and unit testing for a CI/CD pipeline. They also wanted someone who deployed a large number of microservices and knew networking between them. So that was disappointing BUT it was a learning experience and I did my best.
 - Finished the Security section of the AWS SAA course. 
@@ -201,3 +204,263 @@ Day 2 - 08/27/26
 Day 1 - 08/26/26
 - Completed 1 more days of the 100 Days of DevOps challenge. This dealt with Linux networking and iptables.
 - Worked on the security.tf file for the Terraform portion of my Tech Challenge 1. 
+
+
+
+
+
+Interview Notes:
+
+POST-INTERVIEW TAKEAWAYS (DEVOPS / CLOUD LEARNING ROADMAP)
+
+Overall Assessment:
+- This interview felt much more like a Software/Platform DevOps role than a traditional Cloud Infrastructure or Azure Administration role.
+- The interviewer's questions focused heavily on application delivery, software development practices, CI/CD maturity, microservices, security testing, and code quality rather than infrastructure provisioning, networking, Azure administration, Linux administration, or Terraform.
+- My background is currently strongest in Infrastructure Engineering, Networking, Cloud Administration, Linux, Terraform, Automation, Monitoring, Certificates, Identity Services, DNS, and Troubleshooting.
+- The interviewer appeared to be looking for experience operating cloud infrastructure AND participating directly in the software delivery lifecycle.
+
+Key Topics I Was Asked About:
+
+1. CODE TESTING
+The interviewer repeatedly asked:
+- How do I test my code?
+- What tools have I used to validate my code before deployment?
+- How do I know my code works before promoting it into production?
+
+Knowledge Gap:
+- I have experience with Terraform validation, deployment validation, smoke testing, monitoring, and troubleshooting.
+- I have little experience with formal software testing methods.
+
+Topics To Learn:
+- Unit Testing
+- Integration Testing
+- End-to-End Testing (E2E)
+- Test Coverage
+- Pytest
+- CI/CD Test Stages
+
+Example Pipeline:
+Git Push
+→ Build
+→ Lint
+→ Unit Tests
+→ Security Scan
+→ Package
+→ Deploy
+→ Smoke Test
+→ Production
+
+--------------------------------------------------
+
+2. SECURITY TESTING (SAST / DAST)
+
+The interviewer asked about:
+- Securing code
+- Vulnerability scanning
+- Security testing
+- Hardening applications
+
+Knowledge Gap:
+I had little exposure to:
+
+SAST (Static Application Security Testing)
+- Scans source code without running the application
+- Looks for vulnerabilities before deployment
+
+Examples:
+- SonarQube
+- Semgrep
+- Checkmarx
+- Veracode
+
+DAST (Dynamic Application Security Testing)
+- Runs against a live application
+- Attempts to discover vulnerabilities from the outside
+
+Examples:
+- OWASP ZAP
+- Burp Suite
+
+Useful Talking Point:
+Infrastructure engineers commonly harden infrastructure.
+Application-focused DevOps engineers additionally harden application code and pipelines.
+
+--------------------------------------------------
+
+3. MICROSERVICES
+
+The interviewer described environments where:
+- Login Page = Service
+- Calendar = Service
+- User Profile = Service
+- Notifications = Service
+- APIs = Service
+
+Instead of one application:
+
+Monolith:
+Frontend
+→ Backend
+→ Database
+
+Microservices:
+Frontend
+→ Authentication Service
+→ User Service
+→ Calendar Service
+→ Notification Service
+→ API Service
+
+Knowledge Gap:
+I currently have mostly experience with:
+- Monolithic Applications
+- Frontend + Backend + Database
+- Cloud Resume Challenge
+
+Future Learning:
+- Containerized Microservices
+- Service-to-Service Communication
+- API Gateways
+- Kubernetes Services
+- Service Discovery
+- Ingress Controllers
+
+--------------------------------------------------
+
+4. MICROSERVICE COMMUNICATION
+
+The interviewer asked:
+- How do microservices communicate?
+- How are they deployed?
+- How do they find each other?
+
+Future Learning Areas:
+Docker Networking
+Kubernetes Services
+Cluster DNS
+Ingress
+Internal APIs
+
+Example:
+
+Frontend
+↓
+Authentication Service
+↓
+User Service
+↓
+Database Service
+
+Communication occurs through:
+- HTTP APIs
+- Internal Service Names
+- Kubernetes Services
+- Service Discovery
+
+--------------------------------------------------
+
+5. TRUNK-BASED DEVELOPMENT
+
+The interviewer mentioned:
+- Trunk-Based Development
+
+What It Means:
+- Small frequent commits
+- Frequent merges into main
+- Avoid long-running feature branches
+
+Instead of:
+
+Feature Branch
+→ 3 Weeks
+→ Merge
+
+It looks more like:
+
+Feature Branch
+→ Small Change
+→ Merge To Main
+→ Deploy
+
+This is commonly used by mature DevOps organizations.
+
+--------------------------------------------------
+
+6. LESSON LEARNED ABOUT MODERN CI/CD
+
+My original view of CI/CD was:
+
+GitHub
+↓
+Webhook
+↓
+Jenkins
+↓
+Docker Build
+↓
+Deploy
+
+Production CI/CD typically includes:
+
+Developer Commit
+↓
+GitHub
+↓
+Linting
+↓
+Unit Tests
+↓
+Security Scans (SAST)
+↓
+Build
+↓
+Container Scan
+↓
+Artifact Repository
+↓
+Deploy
+↓
+DAST Testing
+↓
+Smoke Tests
+↓
+Production
+
+Major Takeaway:
+The software validation and security stages are a large portion of mature CI/CD pipelines.
+
+--------------------------------------------------
+
+BIGGEST WIN FROM THE INTERVIEW
+
+Even if I do not move forward:
+
+- I articulated my experience better than ever.
+- I explained Azure, Terraform, Linux, DNS, Monitoring, Kubernetes, and Cloud Architecture confidently.
+- I identified several realistic gaps in my DevOps knowledge.
+- I now have a much clearer picture of what "application-focused DevOps" means in production environments.
+
+Current Strengths:
+✅ Azure Infrastructure
+✅ AWS Fundamentals
+✅ Terraform
+✅ Linux
+✅ Networking
+✅ DNS
+✅ Monitoring
+✅ Troubleshooting
+✅ CI/CD Fundamentals
+✅ Kubernetes Fundamentals
+✅ Cloud Architecture
+
+Next Areas To Develop:
+🎯 Unit Testing
+🎯 SAST / DAST
+🎯 Microservices
+🎯 Service Communication
+🎯 Trunk-Based Development
+🎯 Software Security
+🎯 Mature Production CI/CD Pipelines
+
+Final Conclusion:
+This interview exposed a gap between Infrastructure-Focused Cloud Engineering and Software-Focused DevOps Engineering. It was extremely valuable because it clarified the exact skills that many production DevOps teams expect beyond infrastructure provisioning and cloud administration.
