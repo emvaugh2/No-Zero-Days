@@ -7,6 +7,9 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 64 - 11/25/2026
+- No updates. Continuing to go through the AWS SAA course.
+
 Day 63 - 11/24/2026
 - Mainly just review today. I'm still not applying to jobs because I need to do the mock interview first but we'll get it done. Actually this is great. I can spend time reviewing my projects to a strong degree so I can be even more prepared for the mock interview this Friday. Then it's all go time after that. It's literally up and stuck after I pass this mock interview. So this is actually great. 
 
