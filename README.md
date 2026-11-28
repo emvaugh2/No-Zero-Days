@@ -7,6 +7,10 @@ I don't have a true guideline or objectives for each day because I'm currently i
 
 Some days I may barely get anything done and other days I may go extremely hard. The point here is to stay consistent and honest with myself because it's time to finally get this done. Thanks for tuning in. 
 
+Day 67 - 11/28/2026
+- I missed a day due to the holiday. My bad. Anyway, I have the mock interview today and I'll be doing some more studying for the AWS SAA course. Lets just pass this mock interview. 
+
+
 Day 64 - 11/25/2026
 - No updates. Continuing to go through the AWS SAA course.
 
